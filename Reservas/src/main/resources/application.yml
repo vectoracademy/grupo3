@@ -1,0 +1,4 @@
+server:
+  port: 8080
+pagos:
+  host: http://localhost:8090
